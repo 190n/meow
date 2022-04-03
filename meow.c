@@ -31,6 +31,6 @@ double bigO(double x) {
 }
 
 int main(void) {
-	meow(tan, "neigh ", -M_PI, M_PI, M_PI / 12, -5.0, 5.0, 0.5);
+	meow(tan, "meow ", -M_PI, M_PI, M_PI / 12, -5.0, 5.0, 0.5);
 	return 0;
 }
